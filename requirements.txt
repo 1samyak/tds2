@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+pandas
+pdfplumber
+beautifulsoup4
+playwright
+pydantic-settings
